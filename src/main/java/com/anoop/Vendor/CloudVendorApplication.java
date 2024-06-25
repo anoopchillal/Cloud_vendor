@@ -1,4 +1,4 @@
-package com.anoop.Student;
+package com.anoop.Vendor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

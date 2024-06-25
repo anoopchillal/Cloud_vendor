@@ -1,4 +1,4 @@
-package com.anoop.Student;
+package com.anoop.Vendor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
